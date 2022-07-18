@@ -1,2 +1,2 @@
 # cuslog
-practice project: my log
+practice project: my log with go
